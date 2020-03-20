@@ -1,18 +1,12 @@
 
 ## React Redux Login & Registration Example
-
-This is an example application to demonstrate how we can manage login/registration flow in our React app with Redux.
-
-For this example, I used [Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React) framework to create the user interface.
-
-## Usage
+Node version : v10.16.2
+## Usage: Open the terminal and cd into the project
 ```
-git clone https://github.com/feyyazakkus/react-redux-login-registration-example
 npm intall
 npm start
 ```
-## Run Server
-To communication with our React application I created a fake rest api with the power of [json-server](https://github.com/typicode/json-server) library.
+## Open another terminal to  run Json Server
 To run the server just do:
 ```
 npm run api
